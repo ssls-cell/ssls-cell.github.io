@@ -13,7 +13,6 @@ font-size: larger;}
 .title{
 display: flex;
 align-items: center;
-justify-content: center;
 }
 
 .container{

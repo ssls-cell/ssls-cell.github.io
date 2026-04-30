@@ -7,7 +7,14 @@ font-size: larger;
 background-color: beige;
 width: 50%;}
 
+.title{
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
 .container{
 display: grid;
 grid-template-columns: auto auto;
+padding: 20px;
 }

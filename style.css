@@ -4,8 +4,11 @@ body{
 }
 h1{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 font-size: larger;
-background-color: beige;
-width: 50%;}
+width: 100%;}
+h2{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: larger;}
+h3{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: larger;}
 
 .title{
 display: flex;
